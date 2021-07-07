@@ -1,0 +1,209 @@
+/* Extra Extra small devices (portrait phones, less than 320px)*/
+@media(max-width:419.98px) {
+    #header-area.menu-bg {
+	padding: 12px 30px;
+}
+    .inner-img {
+	display: none;
+}
+    .sape-2 {
+	display: none;
+}
+    .slider-text h2 {
+	padding-right: 0;
+}
+    .slider-link a {
+	width: 100%;
+}
+    .about-text h2 {
+	padding-right: 0;
+	font-size: 32px;
+}
+    .about-text p {
+	padding-right: 0;
+}
+    .about-link a {
+	margin-bottom: 20px;
+	width: 100%;
+}
+    .sape-4 {
+	display: none;
+}
+    .sape-5 {
+	display: none;
+}
+    .sape-6 {
+	display: none;
+}
+    .team-img img {
+	width: 100%;
+}
+    .team-text {
+	top: 14%;
+}
+    .blog-img img {
+	width: 100%;
+}
+    .download-link a img {
+	margin-bottom: 20px;
+}
+    
+}
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media(min-width:420px) and (max-width:575.98px) {
+    #header-area.menu-bg {
+	padding: 12px 30px;
+}
+    .inner-img {
+	display: none;
+}
+    .sape-2 {
+	display: none;
+}
+    .about-text h2 {
+	padding-right: 0;
+}
+    .sape-4 {
+	display: none;
+}
+    .sape-5 {
+	display: none;
+}
+    .sape-6 {
+	display: none;
+}
+    .team-img img {
+	width: 100%;
+}
+    .team-text {
+	top: 28%;
+}
+    .blog-img img {
+	width: 100%;
+}
+    .download-link a img {
+	margin-bottom: 20px;
+}
+    
+    
+    
+}
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media(min-width:576px) and (max-width:767.98px) {
+    #header-area.menu-bg {
+	padding: 12px 30px;
+}
+    .slider-text h2 {
+	padding-right: 137px;
+	margin-bottom: 25px;
+}
+    .slider-text p {
+	padding-right: 195px;
+}
+        
+.sape-2 {
+	display: none;
+}
+    .inner-img {
+	left: -39px;
+}
+    .about-text h2 {
+	padding-right: 0;
+}
+    .sape-4 {
+	top: 25%;
+}
+    .sape-6 {
+	top: 59%;
+}
+    .team-img img {
+	width: 100%;
+}
+    .team-text {
+	top: 15%;
+}
+    .blog-img img {
+	width: 100%;
+}
+    .sape-7 {
+	left: 3%;
+}
+    
+    
+    
+    
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media(min-width:768px) and (max-width:991.98px) {
+    #header-area.menu-bg {
+	padding: 12px 30px;
+}
+    .slider-text h2 {
+	padding-right: 280px;
+}
+    .slider-text p {
+	padding-right: 313px;
+}
+    .sape-1 {
+	top: 53%;
+}
+    .sape-2 {
+	display: none;
+}
+    .sape-4 {
+	top: 26%;
+}
+    .sape-7 {
+	top: 19%;
+	left: 3%;
+}
+    .sape-6 {
+	top: 20%;
+	right: 6%;
+}
+    .team-img img {
+	width: 100%;
+}
+    .team-text {
+	top: 15%;
+}
+    #footer-area {
+        
+}
+
+    
+    
+    
+    
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media(min-width:992px) and (max-width:1199.98px) {
+    .about-text h2 {
+	padding-right: 0;
+}
+    .inner-img {
+	left: -22px;
+}
+    .team-text {
+	top: -20px;
+}
+    .pricingTable-text p {
+	padding-right: 0;
+}
+    .download-link a img {
+	margin-right: 0px;
+}
+    .team-text ul li {
+	margin: 0 0px;
+}
+    
+    
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media(min-width: 1200px) {}
